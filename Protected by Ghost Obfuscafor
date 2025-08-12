@@ -1,1 +1,1 @@
-game.Players.LocalPlayer:Kick("This Script Being Private Gui! Tiktok account= Vin.Scripts")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/caomod2077/Script/refs/heads/main/farm%20diamond%2099%20night", true))()
