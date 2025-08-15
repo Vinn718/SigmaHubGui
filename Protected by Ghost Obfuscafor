@@ -1,1 +1,5 @@
-loadstring(game:HttpGet("https://pastebin.com/raw/uPSJg4xL"))()
+key = "0ab7b7b2-3254-4411-a521-998a00de3f61"
+config = {
+    ["Auto Farm Diamond"] = true
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kiktzyy/LimeHub/main/loader.lua"))()
