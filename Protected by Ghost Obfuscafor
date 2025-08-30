@@ -1,1 +1,2 @@
-loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/6d104ab6f6ac27b4a9320f0f5f01dfaa.lua"))()
+getgenv().WebhookURL = "" --If not used do not write anything
+loadstring(game:HttpGet("https://raw.githubusercontent.com/caomod2077/Script/refs/heads/main/Farm%20Diamond%20v2.lua"))()
